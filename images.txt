@@ -1,1 +1,1 @@
-nginx:alpine
+openjdk:8
